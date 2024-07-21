@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{
+	background-color: white;
+}
+
+.container{
+	background-color: teal;
+	box-shadow:2px 2px 10px 2px  black;
+}
+
+.form-label{
+	color: white;
+}
